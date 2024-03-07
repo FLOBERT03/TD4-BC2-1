@@ -1,0 +1,5 @@
+F:\2024\0-SIO1\BC2-1\VERSION-2\PROGRAMMEC#\TD4-Synapse\BiblioSynapse\obj\Debug\netstandard2.0\BiblioSynapse.csproj.AssemblyReference.cache
+F:\2024\0-SIO1\BC2-1\VERSION-2\PROGRAMMEC#\TD4-Synapse\BiblioSynapse\obj\Debug\netstandard2.0\BiblioSynapse.GeneratedMSBuildEditorConfig.editorconfig
+F:\2024\0-SIO1\BC2-1\VERSION-2\PROGRAMMEC#\TD4-Synapse\BiblioSynapse\obj\Debug\netstandard2.0\BiblioSynapse.AssemblyInfoInputs.cache
+F:\2024\0-SIO1\BC2-1\VERSION-2\PROGRAMMEC#\TD4-Synapse\BiblioSynapse\obj\Debug\netstandard2.0\BiblioSynapse.AssemblyInfo.cs
+F:\2024\0-SIO1\BC2-1\VERSION-2\PROGRAMMEC#\TD4-Synapse\BiblioSynapse\obj\Debug\netstandard2.0\BiblioSynapse.csproj.CoreCompileInputs.cache
